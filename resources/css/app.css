@@ -7,8 +7,8 @@ outline-offset: -1px;
 } */
 
 body {
-    background-color: white;
-    font-family: "Montserrat", sans-serif;
+    background-color: bisque;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     overflow-x: hidden;
     overflow-y: scroll !important;
     padding-right: 0px !important;
@@ -30,7 +30,7 @@ body a {
 
 .btnnav {
     transition: 0.5s ease;
-    background-color: white;
+    background-color: bisque;
     font-weight: 500;
     border: none;
     border-radius: 18px;
@@ -59,7 +59,7 @@ body a {
 
 .panel {
     position: relative;
-    background-color: white;
+    background-color: bisque;
     z-index: 2;
     padding: 25px;
     top: 120px;
@@ -167,7 +167,7 @@ input[type="checkbox"]:checked ~ .date-input {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    z-index: 1000;
+    z-index: 1001;
 }
 
 .sidebar i {

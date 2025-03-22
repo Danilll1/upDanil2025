@@ -1,3 +1,28 @@
+
+ОПИСАНИЕ: 
+
+Это форум с возможностью публикации тем и комментирования данных тем. Пользователь может перейти на профиль пользователя и на профиль автора да посмотреть статистику информацию а так же для просмотра тем и комментариев написаных этим автором. Пользователь может удалить комментарии и темы и оценивать комментарии лайком и дизлайком.
+
+ВХОД: 
+
+![alt-text](https://stud-git.n0r.su/ReiVost/Chat-Messager/raw/branch/main/img/photo_5352618931719891176_w.jpg)
+
+для запуска проекта вам понадобится программы и модули данных версий:
+— php-8.1
+— composer-2.4
+— mysql-8.0
+
+после клонирования проекта обновите composer камандой
+```
+composer update
+```
+В проекте используется MySQL. Для создания структуры БД (базы данных) используйте команду
+```
+php artisan migrate
+
+```
+после чего зайдите на проект и зарегестрируйтесь.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">

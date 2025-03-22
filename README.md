@@ -5,7 +5,7 @@
 
 ВХОД: 
 
-![alt-text](https://stud-git.n0r.su/ReiVost/Chat-Messager/raw/branch/main/img/photo_5352618931719891176_w.jpg)
+![alt-text](https://raw.githubusercontent.com/Danilll1/upDanil2025/refs/heads/main/image/image.png)
 
 для запуска проекта вам понадобится программы и модули данных версий:
 — php-8.1
